@@ -1,14 +1,4 @@
-<html><head><title>DNI!!!</title>
-
-<style>
-
-body {background-color:#290000;}
-
-H1 {color:#2b0a0a; font-family:courier;text-align:center;}
-
-fieldset {border: 3px solid #780202; background-color:#9e6464;border-radius:25px; width:50%;margin:auto;}
-
-</style></head>
+</head>
 
 <fieldset><h1>ᡣ𐭩₊˚.⋆⁺₊ DNI List ᡣ𐭩₊˚.⋆⁺₊</h1>
 <hr color = "#1c0000" size = "5">
